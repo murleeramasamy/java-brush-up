@@ -1,2 +1,2 @@
 # java-brush-up
-Algo implementations to brush up java
+Algo to brush up java
